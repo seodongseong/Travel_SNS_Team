@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="페이지-1" id="wEBZLUdSy_pYpkPb0r7T">
+    <mxGraphModel dx="1412" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="310" width="1200" height="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LYzSvVcboR2xnCCWTsnv-2" source="LYzSvVcboR2xnCCWTsnv-70" target="LYzSvVcboR2xnCCWTsnv-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-70" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 회원 -&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;회원은 지도를 등록할 수 없다 (Create)&lt;/span&gt;&lt;br style=&quot;&quot;&gt;회원은&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;지도를&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;조회할 수 있다&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(Read)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;회원은&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;지도를&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;수정할 수&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;없&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;다&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(Update)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;회원은&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;지도를&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;삭제할 수&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;없&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;다&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(Delete)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="LYzSvVcboR2xnCCWTsnv-2">
+          <mxGeometry x="101.5" y="1020" width="219.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-71" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 회원 -&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;회원은 지도를 등록할 수 없다 (Create)&lt;/span&gt;&lt;br style=&quot;&quot;&gt;회원은&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;지도를&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;조회할 수 있다&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(Read)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;회원은&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;지도를&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;수정할 수&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;없&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;다&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(Update)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;회원은&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;지도를&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;삭제할 수&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;없&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;다&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(Delete)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="LYzSvVcboR2xnCCWTsnv-2">
+          <mxGeometry x="101.5" y="1280" width="219.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LYzSvVcboR2xnCCWTsnv-2" source="LYzSvVcboR2xnCCWTsnv-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201.25" y="1279.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-73" value="&lt;font&gt;지도&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;fontStyle=1" vertex="1" parent="LYzSvVcboR2xnCCWTsnv-2">
+          <mxGeometry x="131.25" y="1200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-5" value="회원" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-7" value="비회원" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFF66;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="381.25" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-8" value="관리자" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FF0000;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="655.5" y="450" width="61.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-9" value="인증 서비스(회원가입)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="56.25" y="500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-11" value="인증 서비스(회원가입)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="351.25" y="500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-12" value="인증 서비스(회원가입)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="621.25" y="500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-13" value="회원가입 X (Create)&lt;br&gt;나의 정보 조회 가능(Read)&lt;br&gt;나의 정보 수정 가능(Update)&lt;br&gt;나의 정보 삭제 가능(Delete)&lt;br&gt;&lt;br&gt;로그인 &amp;amp; 로그아웃(Process)&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="30" y="553" width="182.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-14" value="회원가입 가능(Create)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="333.75" y="569.5" width="165" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-16" value="회원가입 X (Create)&lt;br&gt;회원 정보 조회 가능 (Read)&lt;br&gt;회원 정보 수정 가능 (Update)&lt;br&gt;회원 정보 삭제 가능 (Delete)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;로그인 &amp;amp; 로그아웃(Process)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="595" y="546" width="182.5" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYzSvVcboR2xnCCWTsnv-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121.25" y="889.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-50" value="&lt;font&gt;업로드 기능&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="810" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYzSvVcboR2xnCCWTsnv-52" target="LYzSvVcboR2xnCCWTsnv-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="121.25" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-52" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 회원 -&lt;/span&gt;&lt;/div&gt;회원은 게시물을 등록할 수 있다 (Create)&lt;br&gt;회원은 게시물을&amp;nbsp;조회할 수 있다&amp;nbsp;(Read)&lt;br&gt;회원은 게시물을&amp;nbsp;수정할 수 있다&amp;nbsp;(Update)&lt;br&gt;회원은 게시물을&amp;nbsp;삭제할 수 있다&amp;nbsp;(Delete)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="890" width="218.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYzSvVcboR2xnCCWTsnv-54" target="LYzSvVcboR2xnCCWTsnv-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-54" value="기능" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#FFFFFF;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="740" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYzSvVcboR2xnCCWTsnv-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121.25" y="1109.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-56" value="&lt;font&gt;댓글 기능&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="1030" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYzSvVcboR2xnCCWTsnv-58" target="LYzSvVcboR2xnCCWTsnv-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-58" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 회원 -&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;회원은 댓글을 등록할 수 있다 (Create)&lt;/span&gt;&lt;br style=&quot;&quot;&gt;회원은 댓글을 조회할 수 있다&lt;span style=&quot;&quot;&gt;&amp;nbsp;(Read)&lt;/span&gt;&lt;br style=&quot;&quot;&gt;회원은 댓글을 수정할 수 있다&lt;span style=&quot;&quot;&gt;&amp;nbsp;(Update)&lt;/span&gt;&lt;br style=&quot;&quot;&gt;회원은 댓글을 삭제할 수 있다&lt;span style=&quot;&quot;&gt;&amp;nbsp;(Delete)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40.5" y="1110" width="219.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYzSvVcboR2xnCCWTsnv-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121.25" y="1329.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYzSvVcboR2xnCCWTsnv-60" value="&lt;font&gt;지도&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="1250" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
